@@ -2,25 +2,25 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="297mm"
    height="210mm"
    viewBox="0 0 296.99999 210"
    version="1.1"
    id="svg5"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
    sodipodi:docname="smx.svg"
    xml:space="preserve"
    inkscape:export-filename="../9370f5a1/smx.png"
    inkscape:export-xdpi="199.992"
-   inkscape:export-ydpi="199.992"><metadata
+   inkscape:export-ydpi="199.992"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
      id="metadata33880"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
@@ -35,14 +35,14 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.7071068"
-     inkscape:cx="605.64886"
-     inkscape:cy="371.99901"
+     inkscape:cx="840.04283"
+     inkscape:cy="478.71128"
      inkscape:window-width="1528"
      inkscape:window-height="836"
      inkscape:window-x="72"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g14074"
+     inkscape:current-layer="layer1"
      showguides="true"><sodipodi:guide
        position="0,210"
        orientation="0,1122.5197"
@@ -678,12 +678,7 @@
    style="font-size:11.0562px;line-height:1.25;font-family:'Inter Tight';-inkscape-font-specification:'Inter Tight, Normal';font-feature-settings:'cv02', 'cv03', 'cv04', 'cv11';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient19876);stroke-width:0.0731326"
    x="269.44147"
    y="75.486435"
-   id="text19064-3"><tspan
-     sodipodi:role="line"
-     id="tspan19062-6"
-     style="fill:url(#linearGradient19876);stroke-width:0.0731326"
-     x="269.44147"
-     y="75.486435" /></text>
+   id="text19064-3" />
 
 <text
    xml:space="preserve"
@@ -695,7 +690,7 @@
      style="text-align:start;text-anchor:start;fill:#94a3b8;fill-opacity:1;stroke-width:0.0782256"
      x="245.40105"
      y="113.27383"
-     id="tspan24453">Potència el teu coneixement </tspan><tspan
+     id="tspan24453">Potencia el teu coneixement </tspan><tspan
      sodipodi:role="line"
      style="text-align:start;text-anchor:start;fill:#94a3b8;fill-opacity:1;stroke-width:0.0782256"
      x="245.40105"
@@ -709,7 +704,7 @@
 
 <text
    xml:space="preserve"
-   style="font-size:5.14864016px;line-height:1.25;font-family:'Inter Tight';-inkscape-font-specification:'Inter Tight, Normal';letter-spacing:0px;word-spacing:0px;fill:#a4aebb;fill-opacity:1;stroke-width:0.0746522"
+   style="font-size:5.14864px;line-height:1.25;font-family:'Inter Tight';-inkscape-font-specification:'Inter Tight, Normal';letter-spacing:0px;word-spacing:0px;fill:#a4aebb;fill-opacity:1;stroke-width:0.0746522"
    x="245.1125"
    y="173.38376"
    id="text25187"><tspan
@@ -750,12 +745,7 @@
    style="font-size:7.95782px;line-height:1.25;font-family:'Inter Tight';-inkscape-font-specification:'Inter Tight, Normal';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.115383"
    x="153.35732"
    y="129.85164"
-   id="text44169"><tspan
-     sodipodi:role="line"
-     style="fill:#ffffff;stroke-width:0.115383"
-     x="153.35732"
-     y="129.85164"
-     id="tspan44171" /></text>
+   id="text44169" />
 
 <text
    xml:space="preserve"
@@ -896,13 +886,13 @@
 
 <text
    xml:space="preserve"
-   style="font-size:5.64444017px;line-height:1.25;font-family:'Inter Tight';-inkscape-font-specification:'Inter Tight, Normal';letter-spacing:0px;word-spacing:0px;fill:#ececec;stroke-width:0.0851926"
+   style="font-size:5.64444px;line-height:1.25;font-family:'Inter Tight';-inkscape-font-specification:'Inter Tight, Normal';letter-spacing:0px;word-spacing:0px;fill:#ececec;stroke-width:0.0851926"
    x="89.192108"
    y="136.09346"
    id="text43369-6"><tspan
      sodipodi:role="line"
      id="tspan43367-6"
-     style="font-size:5.64444017px;fill:#ececec;stroke-width:0.0851926"
+     style="font-size:5.64444px;fill:#ececec;stroke-width:0.0851926"
      x="89.192108"
      y="136.09346">380 h</tspan></text>
 
