@@ -7,7 +7,7 @@
    viewBox="0 0 296.99999 210"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
    sodipodi:docname="smx_in.svg"
    xml:space="preserve"
    inkscape:export-filename="../f291e8cf/iabd_in.pdf"
@@ -34,13 +34,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.43942713"
-     inkscape:cx="644.02032"
-     inkscape:cy="447.17312"
-     inkscape:window-width="1528"
-     inkscape:window-height="836"
-     inkscape:window-x="72"
-     inkscape:window-y="27"
+     inkscape:zoom="0.62144381"
+     inkscape:cx="499.64292"
+     inkscape:cy="440.90873"
+     inkscape:window-width="1850"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      showguides="true"
@@ -63,17 +63,23 @@
        empspacing="1"
        spacingx="98.999999"
        units="mm"
-       spacingy="210" /><inkscape:grid
+       spacingy="210"
+       originx="0"
+       originy="0"
+       visible="true" /><inkscape:grid
        type="xygrid"
        id="grid10083"
        spacingx="49.499999"
        color="#5fff3f"
-       opacity="0.1254902"
+       opacity="0.12549"
        empcolor="#006c58"
        empopacity="0.25098039"
        empspacing="1"
        units="mm"
-       spacingy="52.499999" /><sodipodi:guide
+       spacingy="52.499999"
+       originx="0"
+       originy="0"
+       visible="true" /><sodipodi:guide
        position="7.5195393,210"
        orientation="1,0"
        id="guide7651"
@@ -613,7 +619,7 @@
      id="tspan892"
      style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52778px;font-family:'Inter Tight';-inkscape-font-specification:'Inter Tight Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;fill:#333333;stroke-width:0.264583"
      x="244.159"
-     y="140.60339">Curs d'Especialització Superior</tspan></text>
+     y="140.60339">Curs d'Especialització de Grau Mitjà</tspan></text>
 
 
 
@@ -892,29 +898,29 @@
    style="fill:#ececec;stroke-width:0.0234555" /><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Inter Tight';-inkscape-font-specification:'Inter Tight, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;letter-spacing:0px;word-spacing:0px;fill:#ececec;stroke-width:0.057742"
-   x="43.964611"
+   x="46.08128"
    y="42.002644"
    id="text1124"><tspan
      sodipodi:role="line"
      id="tspan1122"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Inter Tight';-inkscape-font-specification:'Inter Tight, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;fill:#ececec;stroke-width:0.057742"
-     x="43.964611"
+     x="46.08128"
      y="42.002644">Millora les teues habilitats i avança en la teua carrera </tspan><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Inter Tight';-inkscape-font-specification:'Inter Tight, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;fill:#ececec;stroke-width:0.057742"
-     x="43.964611"
+     x="46.08128"
      y="46.412369"
      id="tspan1126">al món de la informàtica! </tspan><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Inter Tight';-inkscape-font-specification:'Inter Tight, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;fill:#ececec;stroke-width:0.057742"
-     x="43.964611"
+     x="46.08128"
      y="50.822094"
      id="tspan1130"><tspan
    style="fill:#f23535;fill-opacity:1"
    id="tspan13492">Matricula't ara</tspan> i comença el teu viatge cap a l'èxit al </tspan><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Inter Tight';-inkscape-font-specification:'Inter Tight, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;fill:#ececec;stroke-width:0.057742"
-     x="43.964611"
+     x="46.08128"
      y="55.231819"
      id="tspan1134">al món laboral.</tspan></text>
 
@@ -1257,12 +1263,12 @@
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Inter Tight';-inkscape-font-specification:'Inter Tight, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ececec;stroke-width:0.057742"
    x="268.41272"
-   y="39.165733"
+   y="39.694901"
    id="text1124-1"><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Inter Tight';-inkscape-font-specification:'Inter Tight, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ececec;stroke-width:0.057742"
      x="268.41272"
-     y="39.165733"
+     y="39.694901"
      id="tspan1134-0">Estudia la professió amb <tspan
    style="fill:#fbb648;fill-opacity:1"
    id="tspan15357">menys taxa d'atur</tspan></tspan></text>
@@ -1270,31 +1276,7 @@
 
 
 
-<rect
-   style="fill:#e91515;stroke:#ff8989;stroke-width:0.0649999;stroke-linecap:square;stroke-linejoin:round;stroke-dashoffset:3.19371;fill-opacity:1"
-   id="rect2525"
-   width="29.104712"
-   height="26.258196"
-   x="-93.106384"
-   y="72.252533" /><rect
-   style="fill:#b119e6;fill-opacity:1;stroke:#ff8989;stroke-width:0.0649999;stroke-linecap:square;stroke-linejoin:round;stroke-dashoffset:3.19371"
-   id="rect2525-0"
-   width="29.104712"
-   height="26.258196"
-   x="-93.106384"
-   y="106.75013" /><rect
-   style="fill:#020509;fill-opacity:1;stroke:#ff8989;stroke-width:0.0649999;stroke-linecap:square;stroke-linejoin:round;stroke-dashoffset:3.19371"
-   id="rect2525-0-6"
-   width="29.104712"
-   height="26.258196"
-   x="-93.66172"
-   y="146.08505" /><rect
-   style="fill:#1d2b41;fill-opacity:1;stroke:#ff8989;stroke-width:0.0649999;stroke-linecap:square;stroke-linejoin:round;stroke-dashoffset:3.19371"
-   id="rect2525-0-6-0"
-   width="29.104712"
-   height="26.258196"
-   x="-93.66172"
-   y="181.21318" /><text
+<text
    id="text6655"
    y="140.40004"
    x="309.66531"
