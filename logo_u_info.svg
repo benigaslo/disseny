@@ -45,27 +45,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient895-7">
-      <stop
-         style="stop-color:#fe0000;stop-opacity:1"
-         offset="0"
-         id="stop891" />
-      <stop
-         id="stop899"
-         offset="1"
-         style="stop-color:#fba015;stop-opacity:0.6901961" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient895-7"
-       id="linearGradient897"
-       x1="117.52082"
-       y1="42.901062"
-       x2="171.7626"
-       y2="64.487434"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient2598"
        id="linearGradient2558"
        x1="171.43768"
@@ -91,8 +70,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="322.85714"
-     inkscape:cy="175.35714"
+     inkscape:cx="307.14286"
+     inkscape:cy="57.5"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -131,13 +110,10 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
-       sodipodi:nodetypes="ccccccc"
-       inkscape:connector-curvature="0"
        id="path4551"
-       d="M 63.667703,78.106229 57.755454,64.531703 C 76.446379,56.153094 94.344603,51.902789 117.65366,50.766396 l -0.40148,-13.765309 c 30.49096,0.225373 48.47305,6.756934 65.76255,13.78307 L 171.73029,76.60503 C 120.9593,53.300418 76.920747,72.00824 63.667703,78.106229 Z"
-       style="fill:url(#linearGradient897);fill-opacity:1;stroke:none;stroke-width:0.3333419;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       style="fill:#fe0000;fill-opacity:1;stroke:none;stroke-width:1.25987;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 314.5625 0 L 316.08008 52.025391 C 227.98285 56.320419 160.33623 72.385551 89.693359 104.05273 L 112.03906 155.35742 C 162.12931 132.3099 328.57449 61.60317 520.46484 149.68359 L 541.63672 101.23828 L 527.95117 101.23828 L 520.66406 108.52539 C 520.8735 108.99552 520.99023 109.51336 520.99023 110.05859 C 520.99023 112.14811 519.27896 113.86914 517.18945 113.86914 C 515.09994 113.86914 513.38086 112.14811 513.38086 110.05859 C 513.38086 107.96908 515.09994 106.25781 517.18945 106.25781 C 517.82077 106.25781 518.4158 106.41563 518.94141 106.69141 L 526.54102 99.097656 A 1.2568186 1.2568186 0 0 1 527.42773 98.728516 L 542.73438 98.728516 L 549.07031 84.230469 L 538.71484 84.230469 L 533.51758 93.228516 A 1.2568186 1.2568186 0 0 1 532.42578 93.855469 L 518.69141 93.855469 C 518.01052 94.895849 516.83993 95.589844 515.51367 95.589844 C 513.42416 95.589844 511.70508 93.870769 511.70508 91.78125 C 511.70508 89.691734 513.42416 87.972656 515.51367 87.972656 C 517.4557 87.972656 519.0686 89.458516 519.28711 91.345703 L 531.70117 91.345703 L 536.89844 82.347656 A 1.2568186 1.2568186 0 0 1 537.98438 81.720703 L 550.16797 81.720703 L 551.125 79.527344 L 533.79102 79.527344 A 1.2568186 1.2568186 0 0 1 532.9043 79.158203 L 525.50781 71.761719 L 514.65039 71.761719 A 1.256693 1.256693 0 0 1 513.39453 70.507812 A 1.256693 1.256693 0 0 1 514.65039 69.244141 L 526.02539 69.244141 A 1.2568186 1.2568186 0 0 1 526.91016 69.613281 L 534.30664 77.009766 L 552.22656 77.009766 L 553.17773 74.832031 L 543.35742 74.832031 A 1.2568186 1.2568186 0 0 1 542.47266 74.462891 L 528.7168 60.707031 C 528.20352 60.967584 527.62497 61.117188 527.01367 61.117188 C 524.92416 61.117188 523.20508 59.398109 523.20508 57.308594 C 523.20508 55.219074 524.92416 53.505859 527.01367 53.505859 C 529.10318 53.505859 530.81641 55.219074 530.81641 57.308594 C 530.81641 57.87863 530.68478 58.418685 530.45703 58.90625 A 1.256693 1.256693 0 0 1 530.49023 58.931641 L 543.88281 72.316406 L 554.27734 72.316406 L 557.89453 64.041016 L 545.07812 64.041016 A 1.256693 1.256693 0 0 1 543.82227 62.785156 A 1.256693 1.256693 0 0 1 545.07812 61.523438 L 558.99414 61.523438 L 563.11523 52.09375 C 497.76909 25.538275 429.80392 0.85180346 314.5625 0 z M 527.01367 55.691406 C 526.10481 55.691406 525.39062 56.399701 525.39062 57.308594 C 525.39063 58.217483 526.10481 58.931641 527.01367 58.931641 C 527.92257 58.931641 528.63086 58.217483 528.63086 57.308594 C 528.63086 56.399701 527.92257 55.691406 527.01367 55.691406 z M 515.51367 90.158203 C 514.60481 90.158203 513.88867 90.872361 513.88867 91.78125 C 513.88867 92.690143 514.60481 93.40625 515.51367 93.40625 C 516.42257 93.40625 517.13086 92.690143 517.13086 91.78125 C 517.13086 90.872361 516.42257 90.158203 515.51367 90.158203 z M 517.18945 108.44336 C 516.28059 108.44336 515.56445 109.1497 515.56445 110.05859 C 515.56445 110.96748 516.28059 111.68359 517.18945 111.68359 C 518.09835 111.68359 518.80469 110.96748 518.80469 110.05859 C 518.80469 109.1497 518.09835 108.44336 517.18945 108.44336 z "
+       transform="matrix(0.26458333,0,0,0.26458333,34.023991,37.001087)" />
     <g
        id="text4555"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.77159506"
@@ -217,17 +193,5 @@
        id="g1580"
        transform="translate(-0.03728,0.48191965)"
        style="fill:none;stroke:url(#linearGradient2560)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.93174px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0982936"
-       x="1.0806787"
-       y="186.50691"
-       id="text2815"
-       transform="rotate(-66.545181)"><tspan
-         sodipodi:role="line"
-         id="tspan2813"
-         style="fill:#000000;fill-opacity:1;stroke-width:0.0982936"
-         x="1.0806787"
-         y="186.50691">informàtica</tspan></text>
   </g>
 </svg>
